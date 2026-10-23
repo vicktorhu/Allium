@@ -17,6 +17,8 @@ The goal of Allium is to replace MainUI (stock UI) with a faster and more user-f
 
 Please refer to this README.md and the [Wiki](https://github.com/goweiwen/Allium/wiki) for information on how to setup and use Allium.
 
+Developer documentation for this repository lives in the [`docs/`](docs/README.md) folder (architecture, platform layer, power management/sleep, hinge/lid handling, settings and development workflow).
+
 [<img width="250" height="250" alt="icons8-book-250" src="https://github.com/user-attachments/assets/c643a3e2-834d-4377-9b7a-0aa879e86ea7" />](https://github.com/goweiwen/Allium/wiki)
 
 
